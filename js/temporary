@@ -1,1 +1,17 @@
-delete this file once you add valid javascript files to this directory.
+In order to get started with git and github the following steps will help for sure:
+-- Attend all the workshops related to git by geekhaven
+-- Go on youtube and check out this amazing video https://youtu.be/xuB1Id2Wxak
+-- Create your github account and install gitbash if you are a windows user if you use linux then terminal will work
+-- Once opencode has started , pull up your socks and get started for this ride.
+-- Here are some terms and code that will help you out
+Repository - A folder on git which stores files
+pwd//when you first use the repository
+Fork the repository
+git clone 
+cd 
+git branch
+git checkout
+
+git add -A
+git commit -m
+git push origin 
